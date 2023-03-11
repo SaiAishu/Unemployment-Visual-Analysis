@@ -1,0 +1,3 @@
+# Unemployment-Visual-Analysis
+
+Unemployment is a significant issue because it directly reflects and impacts a country's economic health. Unemployed people are those who are in the labor force and are looking for a job but are unable to find one (Garrido & Toharia, 2004). A high unemployment rate in a region indicates that the economy is unable to generate enough jobs for individuals seeking employment (Francis, 2008). Unemployment rates that are too high might lead to a rise in poverty (Martinez et al., 2001) and social unrest (WHELAN, 1994). Analyzing and comprehending the elements that influence unemployment is crucial in combating it. 
