@@ -12,10 +12,10 @@ library(plotly)
 library(viridis)
 library(data.table)
 #Import required datasets
-JobExcel1<-read_excel("JobsEXCEL.xlsx")
-edu_basic<-read_excel("unemployment_basic.xls")
-edu_inter<-read_excel("unemployment_intermediate.xls")
-edu_adv<-read_excel("unemployment_advanced.xls")
+JobExcel1<-read_excel("C:\\Users\\Sai Aishwarya\\Downloads\\Jobs_excel\\JobsEXCEL.xlsx")
+edu_basic<-read_excel("C:\\Users\\Sai Aishwarya\\Downloads\\unemployment_basic.xls")
+edu_inter<-read_excel("C:\\Users\\Sai Aishwarya\\Downloads\\unemployment_intermediate.xls")
+edu_adv<-read_excel("C:\\Users\\Sai Aishwarya\\Downloads\\unemployment_advanced.xls")
 
 names(JobExcel1)[1]<-"Country_Name"
 names(JobExcel1)[2]<-"Country_Code"
